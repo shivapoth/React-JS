@@ -1,0 +1,16 @@
+{
+    "products": [
+        {
+            "id": 1,
+            "name": "mouse",
+            "qty": 3,
+            "price": 5000
+        },
+        {
+            "id": 2,
+            "name": "keyboard",
+            "qty": 2,
+            "price": 600
+        }
+    ]
+}

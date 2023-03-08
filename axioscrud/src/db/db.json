@@ -1,0 +1,16 @@
+{
+    "Login":[
+        {
+            "id":1,
+            "username":"shiva@123",
+            "password":1234,
+            "type":"admin"
+        },
+        {
+            "id":2,
+            "username":"aravind",
+            "password":4567,
+            "type":"customer"
+        }
+    ]
+}

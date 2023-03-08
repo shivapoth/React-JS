@@ -1,0 +1,20 @@
+{
+    "products":[
+        {
+            "id":200,
+            "name":"keyboard",
+            "quantity":5,
+            "price":1000
+        },{
+            "id":201,
+            "name":"mouse",
+            "quantity":2,
+            "price":5000
+        },{
+            "id":202,
+            "name":"cpu",
+            "quantity":3,
+            "price":5000
+        }
+    ]
+}

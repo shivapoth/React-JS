@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <title>React using cdn</title>
+</head>
+
+<body>
+    <div id="react-app"></div>
+    <script crossorigin src="https://unpkg.com/react@18/umd/react.development.js"></script>
+    <script crossorigin src="https://unpkg.com/react-dom@18/umd/react-dom.development.js"></script>
+
+    <script>
+        element=React.createElement("hi",{},"React First Application")
+        ReactDOM.render(element,document.getElementById("react-app"))
+
+    </script>
+
+</body>
+
+</html>
